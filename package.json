@@ -1,8 +1,9 @@
 {
-  "name": "web-base-packed",
+  "name": "drop-down",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "type": "module",
+  "main": "drop-down.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack serve --open --config webpack.dev.js",
@@ -29,7 +30,5 @@
     "webpack-dev-server": "^5.1.0",
     "webpack-merge": "^6.0.1"
   },
-  "dependencies": {
-    "modern-normalize": "^3.0.1"
-  }
+  "dependencies": {}
 }
