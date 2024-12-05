@@ -1,9 +1,9 @@
 {
   "name": "@yochie/drop-down",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "type": "module",
-  "main": "drop-down.js",
+  "main": "src/drop-down.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack serve --open --config webpack.dev.cjs",
