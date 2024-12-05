@@ -1,5 +1,5 @@
 {
-  "name": "drop-down",
+  "name": "@yochie/drop-down",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -29,6 +29,5 @@
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^5.1.0",
     "webpack-merge": "^6.0.1"
-  },
-  "dependencies": {}
+  }
 }
