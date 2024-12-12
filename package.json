@@ -1,6 +1,6 @@
 {
   "name": "@yochie/drop-down",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "description": "",
   "type": "module",
   "main": "src/drop-down.js",
