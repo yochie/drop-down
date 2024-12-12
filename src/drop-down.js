@@ -32,8 +32,4 @@ function init() {
   }
 }
 
-//run on import
-init();
-
-//allow rerunning init if needed
-export { init };
+export { init as initDropDowns };
